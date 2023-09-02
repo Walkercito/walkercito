@@ -1,4 +1,4 @@
-<h1 align="center">Hyo! 👋 What's up?</h1>
+<h1 align="left">Hyo! 👋 What's up?</h1>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
