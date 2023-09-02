@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C++ and GUI design<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I like watermelons</p>
+<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning C++ and GUI design<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I like watermelons</p>
 
 ###
 
