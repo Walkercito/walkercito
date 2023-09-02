@@ -2,15 +2,15 @@
 
 ###
 
-<p align="center">My name is Walkercito 🍉 and I'm a tech <br>enthusiast wanting to learn Python and other technologies, I'm from Cuba  by the way. Keep cooding! 📚</p>
+<p align="left">My name is Walkercito 🍉 and I'm a tech <br>enthusiast wanting to learn Python and other technologies, I'm from Cuba  by the way. Keep cooding! 📚</p>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning C++ and GUI design<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I like watermelons</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C++ and GUI design<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I like watermelons</p>
 
 ###
 
