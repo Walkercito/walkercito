@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Walkercito 🍉 and I'm a tech <br>enthusiast wanting to learn Python and other technologies, I'm from Cuba  by the way. Keep cooding! 📚</p>
+<p align="left">My name is Walkercito 🍉 and I'm a tech <br>enthusiast wanting to learn Python and other technologies, I'm from Cuba and I have experience with libraries like Flet, Tkinter, PyGame, raylib5, discord.py, teleton (Telegram), Flask, PyQt5 and others. Wantign to learn more about new technologies. Keep cooding! 📚</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C++ and GUI design<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I like watermelons</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python for GUI design, backend and personal projects<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I like watermelons (⁠⌐⁠■⁠-⁠■⁠)</p>
 
 ###
 
