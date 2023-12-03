@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Walkercito 🍉 and I'm a tech <br>enthusiast wanting to learn Python and other technologies, I'm from Cuba and I have experience with libraries like Flet, Tkinter, PyGame, raylib5, discord.py, teleton (Telegram), Flask, PyQt5 and others. Keep cooding! 📚</p>
+<p align="left">My name is Walkercito 🍉 and I'm a tech enthusiast wanting to learn Python and other technologies, I'm from Cuba and I have experience with libraries like Flet, Tkinter, PyGame, raylib5, discord.py, teleton (Telegram), Flask, PyQt5 and others. Keep cooding! 📚</p>
 
 ###
 
