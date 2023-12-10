@@ -1,22 +1,12 @@
-<h1 align="left">Hyo! 👋 What's up?</h1>
+# Hey there! 👋 What's up?
 
-###
+<p align="left">I'm Walkercito 🍉, a tech enthusiast from Cuba diving into the world of programming. I'm on a journey to master Python and explore various technologies. Currently, I've tinkered with libraries like Flet, Tkinter, PyGame, raylib5, discord.py, teleton (Telegram), Flask, PyQt5, and more. Keep coding! 📚</p>
 
-<p align="left">My name is Walkercito 🍉 and I'm a tech enthusiast wanting to learn Python and other technologies, I'm from Cuba and I have experience with libraries like Flet, Tkinter, PyGame, raylib5, discord.py, teleton (Telegram), Flask, PyQt5 and others. Keep cooding! 📚</p>
+## About Me
 
-###
+<p align="left">✨ Creating bugs since 2019<br>📚 Currently learning Python for GUI design, backend, and personal projects<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I have a soft spot for watermelons (⁠⌐⁠■⁠-⁠■⁠)</p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python for GUI design, backend and personal projects<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I like watermelons (⁠⌐⁠■⁠-⁠■⁠)</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## I Code With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,5 +19,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
-
-###
