@@ -1,10 +1,13 @@
 # Hey there! 👋 What's up?
 
-<p align="left">I'm Walkercito 🍉, a tech enthusiast from Cuba diving into the world of programming. I'm on a journey to master Python and explore various technologies. Currently, I've tinkered with libraries like Flet, Tkinter, PyGame, raylib5, discord.py, teleton (Telegram), Flask, PyQt5, and more. Keep coding! 📚</p>
+I'm Walkercito 🍉, a passionate tech explorer hailing from Cuba. Embarking on a programming odyssey, I'm mastering Python and delving into various exciting technologies. My coding adventures have led me through libraries like Flet, Tkinter, PyGame, raylib5, discord.py, teleton (Telegram), Flask, PyQt5, and beyond. Join me on this coding journey! 🚀
 
 ## About Me
 
-<p align="left">✨ Creating bugs since 2019<br>📚 Currently learning Python for GUI design, backend, and personal projects<br>🎯 Goals: Become a self-taught programmer 0.o<br>🍉 Fun fact: I have a soft spot for watermelons (⁠⌐⁠■⁠-⁠■⁠)</p>
+✨ Creating bugs since 2019  
+📚 Currently immersing myself in Python for GUI design, backend wizardry, and personal projects  
+🎯 Goals: Aspiring to be a self-taught programmer 0.o  
+🍉 Fun fact: I've got a soft spot for watermelons (⁠⌐⁠■⁠-⁠■⁠)
 
 ## I Code With
 
