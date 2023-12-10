@@ -6,7 +6,6 @@ Greetings, I'm Walkercito 🍉, a tech enthusiast from Cuba on a coding expediti
 
 ✨ Crafting solutions since 2019  
 📚 Actively honing my skills in Python for GUI design, backend wizardry, and personal projects
-
 🎯 Aspiring to become a self-taught programmer 0.o  
 🍉 Fun fact: I have a fondness for watermelons (⁠⌐⁠■⁠-⁠■⁠)
 
@@ -24,9 +23,6 @@ Greetings, I'm Walkercito 🍉, a tech enthusiast from Cuba on a coding expediti
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flet/flet-original.svg" height="40" alt="flet logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raylib/raylib-original.svg" height="40" alt="raylib logo"  />
   <!-- Add more icons as needed -->
 </div>
 
