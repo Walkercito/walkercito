@@ -5,7 +5,7 @@ Greetings, I'm Walkercito 🍉, a tech enthusiast from Cuba on a coding expediti
 ## About Me
 
 ✨ Crafting solutions since 2019  
-📚 Actively honing my skills in Python for GUI design, backend wizardry, and personal projects
+📚 Actively honing my skills in Python for GUI design, backend wizardry, and personal projects    
 🎯 Aspiring to become a self-taught programmer 0.o  
 🍉 Fun fact: I have a fondness for watermelons (⁠⌐⁠■⁠-⁠■⁠)
 
