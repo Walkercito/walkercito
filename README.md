@@ -2,12 +2,8 @@
 
 Greetings, I'm Walkercito 🍉, a tech enthusiast from Cuba on a coding expedition. Currently mastering Python and exploring diverse technologies, my journey has taken me through libraries like Flet, Tkinter, PyGame, raylib5, discord.py, Telethon, Flask, PyQt5, OpenAI, and more. Join me in this coding adventure! 🚀
 
-## About Me
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-✨ Crafting solutions since 2019  
-📚 Actively honing my skills in Python for GUI design, backend wizardry, and personal projects    
-🎯 Aspiring to become a self-taught programmer 0.o  
-🍉 Fun fact: I have a fondness for watermelons (⁠⌐⁠■⁠-⁠■⁠)
 
 ## Tech Toolbox
 
