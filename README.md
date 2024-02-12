@@ -10,3 +10,9 @@ Greetings, I'm Walker 🍉, a tech enthusiast from Cuba on a coding expedition. 
 Here is a list of icons of some of the technologies that work with:
  
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,godot,cpp,py,cloudflare,discord,bots,replit,firebase,flask)](https://skillicons.dev)
+
+## Get in touch
+
+ - [Telegram](t.me/Walkercito)
+ - [Discord](discordapp.com/users/457318022357712906)
+ - [Twitter (X)]([https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project](https://x.com/Walkercitodt?t=PtrOQhM_EtlqS3B4K5fkxw&s=09)https://x.com/Walkercitodt?t=PtrOQhM_EtlqS3B4K5fkxw&s=09)
