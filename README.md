@@ -9,7 +9,7 @@ Greetings, I'm Walker 🍉, a tech enthusiast from Cuba on a coding expedition. 
 # Tech Box 🛠️
 Here is a list of icons of some of the technologies that work with:
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,blender,godot,cpp,py,cloudflare,discord,bots,replit,firebase,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,blender,godot,cs,py,cloudflare,discord,bots,replit,firebase,flask)](https://skillicons.dev)
 
 ## Get in touch
 
