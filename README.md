@@ -1,13 +1,15 @@
 # Walkercito 🍉👋
 
-Hey there! I’m **Walker**, known as **Walkercito** across the web—a passionate developer from **Cienfuegos, Cuba** with a mission to create and share innovative software solutions. From crafting open-source tools to exploring automation and AI, I'm on an endless coding journey powered by **Python** and **C#**.
+Hey there! I’m **Walker**, known as **Walkercito** across the web—a passionate developer from **Cienfuegos, Cuba** with a mission to create and share innovative software solutions. From crafting open-source tools to exploring automation, AI, and LLM training, I'm on an endless coding journey powered by **Python** and **C#**.
 
 ## 🚀 **About Me**
 
-As a self-taught developer, I enjoy diving into a wide range of technologies and constantly challenging myself with new projects. Currently working as a freelance programmer, I’m dedicated to making technology accessible and effective, even in unique contexts like **Cuba**. You’ll often find me creating projects that solve real-world problems, such as custom bots, automation tools, and even game mods.
+As a self-taught developer, I enjoy diving into a wide range of technologies and constantly challenging myself with new projects. Currently working as a freelance programmer, I’m dedicated to making technology accessible and effective, even in unique contexts like **Cuba**. You’ll often find me creating projects that solve real-world problems, such as custom bots, automation tools, and even LLMs.
 
 - 🎮 Building custom **game automation tools** with **OpenCV** and **YOLOv8** for object recognition
 - 💻 Developing **CopyClip**—a Windows-like clipboard manager for **Linux** users
+- 💡 Created **BlueLights**, a Bluetooth-based library to control LED lights with **Bleak** in Python
+- 🧠 Training LLMs, including **Llama 3.1**, for custom language model solutions
 - 💼 Founder of **QvaByte**, a platform offering accessible tech solutions, including for Cuban users
 
 ## 🔧 **Tech Toolbox**
@@ -22,7 +24,8 @@ I’ve worked with a wide array of languages, libraries, and frameworks to bring
 | **PyGame**, **raylib5**, **Arcade** | Game development and graphics |
 | **discord.py**, **Telethon**, **Pyrogram** | Bot development and chat automation |
 | **Flask**, **PyQt5**, **ElectronJS** | Web & desktop application development |
-| **OpenAI**, **Matplotlib** | AI integration and data visualization |
+| **OpenAI**, **Llama 3.1** | AI and large language model (LLM) training |
+| **Bleak** | Bluetooth communication for IoT projects (e.g., BlueLights) |
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,godot,cs,py,cloudflare,discord,bots,replit,firebase,flask)](https://skillicons.dev)
 
@@ -41,6 +44,12 @@ I’ve worked with a wide array of languages, libraries, and frameworks to bring
 
 - **QvaByte**  
   A tech service platform offering affordable programming solutions, with special discounts for Cuban clients.
+
+- **BlueLights**  
+  A Bluetooth library built with **Bleak** to control LED lights from any Bluetooth-enabled device, enabling unique IoT applications.
+
+- **LLM Training with Llama 3.1**  
+  Custom training of large language models, focusing on tailored AI solutions for specific use cases.
 
 - **Game Automation with OpenCV**  
   Developing AI-driven automation scripts for popular games like **Clash of Clans**, leveraging **YOLOv8** to detect and interact with game elements.
