@@ -1,6 +1,6 @@
 # Walkercito 🍉👋
 
-Hey there! I’m **Walker**, known as **Walkercito** across the web—a passionate developer from **Cienfuegos, Cuba** with a mission to create and share innovative software solutions. From crafting open-source tools to exploring automation, AI, and LLM training, I'm on an endless coding journey powered by **Python** and **C#**.
+Hey there! I’m **Oliver**, known as **Walkercito** across the web—a passionate developer from **Cienfuegos, Cuba** with a mission to create and share innovative software solutions. From crafting open-source tools to exploring automation, AI, and LLM training, I'm on an endless coding journey powered by **Python** and **C#**.
 
 ## 🚀 **About Me**
 
