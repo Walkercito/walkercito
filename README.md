@@ -74,3 +74,4 @@ I’m always open to connecting, collaborating, and sharing knowledge. Reach out
 ---
 
 Thanks for stopping by! Let’s code something awesome together. 🌐✨
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T018BZDZ)
