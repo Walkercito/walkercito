@@ -25,7 +25,7 @@ I’ve worked with a wide array of languages, libraries, and frameworks to bring
 | **OpenCV**, **Ultralytics YOLOv8** | Computer vision & object detection |
 | **PyGame**, **raylib5**, **Arcade** | Game development and graphics |
 | **discord.py**, **Telethon**, **Pyrogram** | Bot development and chat automation |
-| **Flask**, **PyQt5**, **ElectronJS** | Web & desktop application development |
+| **Flask**, **FastAPI**, **PyQt5**, **ElectronJS** | Web & desktop application development |
 | **OpenAI**, **Llama 3.1** | AI and large language model (LLM) training |
 | **Bleak** | Bluetooth communication for IoT projects (e.g., BlueLights) |
 
