@@ -20,7 +20,7 @@ I’ve worked with a wide array of languages, libraries, and frameworks to bring
 
 | Libraries & Frameworks | Description |
 | ---------------------- | ----------- |
-| **Python** & **C#** | My core programming languages |
+| **Python**, **JS**, **C++** & **C**| My core programming languages |
 | **Flet**, **Tkinter**, **Reflex** | GUI frameworks for cross-platform applications |
 | **OpenCV**, **Ultralytics YOLOv8** | Computer vision & object detection |
 | **PyGame**, **raylib5**, **Arcade** | Game development and graphics |
