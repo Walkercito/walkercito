@@ -45,7 +45,7 @@ I’ve worked with a wide array of languages, libraries, and frameworks to bring
   An open-source clipboard manager for Linux inspired by the Windows Clipboard, designed with a user-friendly GUI in **Tkinter** and planned migration to **PyQt5** for a modern look.
 
 - **QvaByte**  
-  A tech service platform offering affordable programming solutions, with special discounts for Cuban clients.
+  A tech service platform offering affordable programming solutions.
 
 - **BlueLights**  
   A Bluetooth library built with **Bleak** to control LED lights from any Bluetooth-enabled device, enabling unique IoT applications.
