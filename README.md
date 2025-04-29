@@ -1,77 +1,116 @@
 # Walkercito 🍉👋
 
-Hey there! I’m **Oliver**, known as **Walkercito** across the web—a passionate developer from **Cienfuegos, Cuba** with a mission to create and share innovative software solutions. From crafting open-source tools to exploring automation, AI, and LLM training, I'm on an endless coding journey powered by **Python**, **C#** and **JavaScript**.
+Hey there! I’m **Oliver**, but you might know me as **Walkercito**. I’m a cuban developer, passionate about turning ideas into realities. 🌟
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T018BZDZ)
-
-## 🚀 **About Me**
-
-As a self-taught developer, I enjoy diving into a wide range of technologies and constantly challenging myself with new projects. Currently working as a freelance programmer, I’m dedicated to making technology accessible and effective, even in unique contexts like **Cuba**. You’ll often find me creating projects that solve real-world problems, such as custom bots, automation tools, and even LLMs.
-
-- 🎮 Building custom **game automation tools** with **OpenCV** and **YOLOv8** for object recognition
-- 💻 Developing **CopyClip**—a Windows-like clipboard manager for **Linux** users
-- 💡 Created **BlueLights**, a Bluetooth-based library to control LED lights with **Bleak** in Python
-- 🧠 Training LLMs, including **Llama 3.1**, for custom language model solutions
-- 💼 Founder of **QvaByte**, a platform offering accessible tech solutions, including for Cuban users
-
-## 🔧 **Tech Toolbox**
-
-I’ve worked with a wide array of languages, libraries, and frameworks to bring my ideas to life. Here are some of my go-to tools:
-
-| Libraries & Frameworks | Description |
-| ---------------------- | ----------- |
-| **Python**, **JS**, **C++** & **C**| My core programming languages |
-| **Flet**, **Tkinter**, **Reflex** | GUI frameworks for cross-platform applications |
-| **OpenCV**, **Ultralytics YOLOv8** | Computer vision & object detection |
-| **PyGame**, **raylib5**, **Arcade** | Game development and graphics |
-| **discord.py/js**, **Telethon**, **Pyrogram** | Bot development and chat automation |
-| **Flask**, **FastAPI**, **PyQt5**, **ElectronJS**, **React** | Web & desktop application development |
-| **OpenAI**, **Llama 3.1** | AI and large language model (LLM) training |
-| **Bleak** | Bluetooth communication for IoT projects (e.g., BlueLights) |
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,blender,godot,cs,py,cloudflare,discord,bots,replit,firebase,flask)](https://skillicons.dev)
+<div align="center">
+  <a href="https://ko-fi.com/T6T018BZDZ">
+    <img src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="not-now">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+  <a href="not-now">
+    <img src="https://img.shields.io/badge/Donate-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+  </a>
+  <a href="not-now">
+    <img src="https://img.shields.io/badge/Donate-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  </a>
+  <a href="not-now">
+    <img src="https://img.shields.io/badge/Donate-SOL-66F9A1?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+  </a>
+  <a href="not-now">
+    <img src="https://img.shields.io/badge/Donate-TRX-CF202F?style=for-the-badge&logo=tron&logoColor=white" alt="Tron"/>
+  </a>
+</div>
 
 ---
 
-## 📊 **GitHub Streak**
+## 🚀 About Me
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Walkercito&theme=cobalt&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+I’m a **self-taught** developer who loves:
 
----
-
-## 🌍 **Featured Projects**
-
-- **CopyClip**  
-  An open-source clipboard manager for Linux inspired by the Windows Clipboard, designed with a user-friendly GUI in **Tkinter** and planned migration to **PyQt5** for a modern look.
-
-- **QvaByte**  
-  A tech service platform offering affordable programming solutions.
-
-- **BlueLights**  
-  A Bluetooth library built with **Bleak** to control LED lights from any Bluetooth-enabled device, enabling unique IoT applications.
-
-- **LLM Training with Llama 3.1**  
-  Custom training of large language models, focusing on tailored AI solutions for specific use cases.
-
-- **Game Automation with OpenCV**  
-  Developing AI-driven automation scripts for popular games like **Clash of Clans**, leveraging **YOLOv8** to detect and interact with game elements.
-
-## 🗓️ **Current Focus**
-
-- **Financial Management Bot**: A **Python** bot that helps track and manage earnings and expenses across multiple currencies (CUP, USD, EUR, MLC), with daily prompts, exchange rate adjustments, and monthly summaries using **matplotlib**.
-- **Improved Clipboard Manager**: Enhancing **CopyClip** with new features like pinned items, easy access via keyboard shortcuts, and better memory management for Linux systems.
+- 💡 Exploring new technologies and challenges  
+- 🤖 Automating and learning **Python**, **JS/TS**, **C++** (this one for myself mostly) and **C#**
+- 📑 Doing web scraping using **playwright** and **puppeteer**
+- 💾 Crafting tools like **CopyClip**, my Linux clipboard manager, completely open sourced
+- 📱 Writing bots for **Discord**, **Telegram**, **Twtich**, and more  
 
 ---
 
-## 📬 **Get in Touch**
+## 🔧 Tech Toolbox
 
-I’m always open to connecting, collaborating, and sharing knowledge. Reach out to me here:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,tsx,react,tailwind,opencv,discord,flask,fastapi" alt="Tech Icons"/>
+</div>
 
-- [**Telegram**](https://t.me/Walkercito)
-- [**Discord**](https://discordapp.com/users/457318022357712906)
-- [**Twitter (X)**](https://x.com/Walkercitodt?t=PtrOQhM_EtlqS3B4K5fkxw&s=09)
+- **Languages**: Python · JavaScript · TypeScript · C# · C++  
+- **Frontend**: React (JS/TS) · TailwindCSS · Vite · Reflex  
+- **Backend & APIs**: Flask · FastAPI · express · NodeJS  
+- **Computer Vision**: OpenCV · Ultralytics YOLOv8  
+- **Web Scraping**: BeautifulSoup · Puppeteer · playwright 
+- **Game Dev & Automation**: Pygame · raylib5 · Arcade · Godot
+- **Bots**: discord.py/js · Telethon · Pyrogram, etc
+- **IoT**: Bleak (hello, BlueLights!)
 
 ---
 
-Thanks for stopping by! Let’s code something awesome together. 🌐✨
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T018BZDZ)
+## 📈 GitHub Activity
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Walkercito&theme=cobalt&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</a>
+
+---
+
+## 🌍 Featured Projects
+
+### CopyClip 🗒️  
+My current focus: an open-source clipboard manager for Linux, inspired by Windows.  
+- Built in **Python** with **Tkinter**, recently migrated to **PyQt6** & **CSS** due to custom-tkinter issues, showing a new modern UI and performance boost.  
+- Supports history, pinned items, keyboard shortcuts & memory optimization. Im planning to make it a *.deb* file for future distribution.
+
+### BlueLights 💡  
+A **Python/Bleak** library to control Bluetooth LED strips and lamps from any device.
+
+### Web Scraping Suite 🕸️  
+Custom scrapers & automation scripts for gathering data from websites—using **playwright**, **puppeter**, **BeautifulSoup** & headless browsers for **Begonlabs**
+
+### Game Automation 🎮  
+AI-driven scripts for games like *Clash of Clans*, leveraging **YOLOv8** for real-time object detection.
+
+---
+
+## 🗓️ Current Focus
+
+- **CopyClip** with a CSS front-end and seamless clipboard workflows.  
+- Enhancing **scraping tools** to handle dynamic sites and data pipelines.  
+- Building a **Finance Bot**: daily logging of income/expenses (CUP, USD, EUR, MLC) and monthly reports via **matplotlib**.
+
+---
+
+## 📬 Let’s Connect
+
+<div align="center">
+  <a href="https://t.me/Walkercito" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-0078FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discordapp.com/users/457318022357712906" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://x.com/Walkercitodt" title="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@domain.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+> “The best way to predict the future is to invent it.”  
+> — Alan Kay
+
+---
+
+Thanks for stopping by! 🚀✨  
+Let’s build something amazing together.
