@@ -100,7 +100,7 @@ AI-driven scripts for games like *Clash of Clans*, leveraging **YOLOv8** for rea
   <a href="https://x.com/Walkercitodt" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@domain.com" title="Email">
+  <a href="mailto: walkercitoliver@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
