@@ -6,10 +6,10 @@ Hey there! I’m **Oliver**, but you might know me as **Walkercito**. I’m a cu
   <a href="https://ko-fi.com/T6T018BZDZ">
     <img src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
   </a>
-  <a href="not-now">
+  <a href="https://ko-fi.com/T6T018BZDZ">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
-  <a href="not-now">
+  <a href="https://www.paypal.me/KarlaMejiasArian">
     <img src="https://img.shields.io/badge/Donate-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
   </a>
   <a href="not-now">
