@@ -9,16 +9,16 @@ Hey there! I’m **Oliver**, but you might know me as **Walkercito**. I’m a cu
   <a href="https://www.paypal.me/KarlaMejiasArian">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
-  <a href="">
+  <a href="https://walkercitodev.vercel.app/donations/links">
     <img src="https://img.shields.io/badge/Donate-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
   </a>
-  <a href="not-now">
+  <a href="https://walkercitodev.vercel.app/donations/links">
     <img src="https://img.shields.io/badge/Donate-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
   </a>
-  <a href="not-now">
+  <a href="https://walkercitodev.vercel.app/donations/links">
     <img src="https://img.shields.io/badge/Donate-SOL-66F9A1?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
   </a>
-  <a href="not-now">
+  <a href="https://walkercitodev.vercel.app/donations/links">
     <img src="https://img.shields.io/badge/Donate-TRX-CF202F?style=for-the-badge&logo=tron&logoColor=white" alt="Tron"/>
   </a>
 </div>
