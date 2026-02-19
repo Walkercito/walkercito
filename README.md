@@ -80,9 +80,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
 </div>
 
-###
-
-<img align="right" height="147" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
