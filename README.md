@@ -91,6 +91,92 @@
 
 ###
 
+## 🌟 Projects I'm Proud Of
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗒️ **CopyClip**
+*The Clipboard Manager Linux Deserves*
+
+**What it does:** Bringing Windows-level clipboard management to Linux users everywhere.
+
+**Tech Stack:** `Python` • `PyQt6` • `CSS` • `Linux APIs`
+
+**Cool Features:**
+- 📋 History tracking with smart search
+- 📌 Pin your most-used clips
+- ⌨️ Lightning-fast keyboard shortcuts  
+- 🧠 Memory optimization that actually works
+- 📦 Soon: .deb package for easy installation
+
+**Impact:** Real Linux users solving real clipboard problems daily!
+
+</td>
+<td width="50%">
+
+### 🎵 **Mr. Gato**
+*The Ultimate Discord Music Bot*
+
+**What it does:** Premium music bot that connects to all major streaming platforms in one place.
+
+**Tech Stack:** `Astro` • `Discord.py` • `FFMPEG` • `Clerk` • `Supabase` • `TailwindCSS`
+
+**Streaming Power:**
+- 🎧 Spotify, SoundCloud, YouTube Music & Deezer
+- 🎛️ Advanced queue management
+- 🔐 Secure authentication with Clerk
+- 💾 User preferences stored in Supabase
+- 💰 Converting to paid service with slick landing page
+
+**Status:** From hobby project to business venture!
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 **BlueLights**
+*Control Your World with Code*
+
+**What it does:** Python/Bleak library for controlling Bluetooth LED strips from any device.
+
+**Tech Stack:** `Python` • `Bleak` • `Bluetooth LE` • `Cross-platform`
+
+**Why it's cool:**
+- 🌈 Change colors with a single line of code
+- 📱 Works from anywhere on your network
+- 🔧 Simple API, powerful results
+- 🏠 Perfect for smart home setups
+
+**Status:** Live and helping people light up their world!
+
+</td>
+<td width="50%">
+
+### 🕸️ **Web Scraping Arsenal**
+*Making the Web Bend to Your Will*
+
+**What it does:** Custom scrapers and automation scripts for **Begonlabs** and various clients.
+
+**Tech Stack:** `Playwright` • `Puppeteer` • `BeautifulSoup` • `Python` • `Node.js`
+
+**The Challenge:**
+- 🛡️ Bypassing modern anti-bot systems
+- 📊 Handling dynamic content loading
+- 🔄 Building reliable data pipelines
+- ⚡ Speed vs. stealth optimization
+
+**Results:** Data pipelines that just work™
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+###
+
 <br clear="both">
 
 <h4 align="left">Thanks for stopping by! 🚀</h4>
