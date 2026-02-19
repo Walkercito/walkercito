@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hey, I'm Walkercito! 🍉👋</h2>
+<h1 align="left">Hey, I'm Walkercito! 🍉👋</h1>
 
 ###
 
@@ -81,8 +81,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="147" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
