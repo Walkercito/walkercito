@@ -49,6 +49,8 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="44" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="44" alt="astro logo"  />
@@ -73,9 +75,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="44" alt="express logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=adonis" height="44" alt="adonisjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="supabase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="44" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
 </div>
