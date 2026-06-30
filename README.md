@@ -1,194 +1,168 @@
-<br clear="both">
+<h1 align="center">Hey, I'm Walkercito! 🍉👋</h1>
 
-<h1 align="left">Hey, I'm Walkercito! 🍉👋</h1>
+<p align="center">
+Oliver here, but most people know me as Walkercito — a Cuban developer who gets genuinely<br/>
+excited about turning wild ideas into working code. There's something magical about that<br/>
+moment when everything clicks and your creation comes to life. 🌟
+</p>
 
-###
+<br/>
 
-<h4 align="left">Oliver here, but most people know me as Walkercito. I'm a Cuban developer who gets genuinely excited about turning wild ideas into working code. There's something magical about that moment when everything clicks and your creation comes to life. 🌟</h4>
+<p align="center">
+  <a href="https://walkercitodev.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website" /></a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/walkercito" target="_blank"><img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buy me a coffee" /></a>
+  &nbsp;
+  <a href="https://ko-fi.com/walkercito" target="_blank"><img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi" /></a>
+  &nbsp;
+  <a href="https://www.paypal.me/KarlaMejiasArian" target="_blank"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal" /></a>
+  &nbsp;
+  <a href="https://t.me/Walkercito" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" /></a>
+  &nbsp;
+  <a href="https://x.com/Walkercitodt" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" /></a>
+  &nbsp;
+  <a href="https://discord.com/invite/rmJh7Tf4e4" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" /></a>
+</p>
 
-###
+<br/>
 
-<div align="center">
-  <a href="mejkarlayanela@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
-  <a href="https://ko-fi.com/walkercito" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
-  <a href="https://t.me/Walkercito" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://x.com/Walkercitodt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="walkercitodt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&text=My%20Stack&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&color=gradient" width="100%" />
 
-###
+<br/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&text=My%20Stack&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<p align="center">
+  <b>Languages</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c" height="44" alt="languages" />
+</p>
 
-###
+<br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="44" alt="c logo"  />
-</div>
+<p align="center">
+  <b>Frontend</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,astro,vite,tailwind,html,css" height="44" alt="frontend" />
+</p>
 
-###
+<br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="44" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="44" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="44" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="44" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="44" alt="css logo"  />
-</div>
+<p align="center">
+  <b>Backend &amp; Data</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,express,adonis,supabase,postgres,redis,sqlite" height="44" alt="backend and data" />
+</p>
 
-###
+<br/>
+
+<p align="center">
+  <b>Systems &amp; Tooling</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=cmake,qt,linux,bash,git,github,vim" height="44" alt="systems and tooling" />
+</p>
+
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="44" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="44" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="44" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=adonis" height="44" alt="adonisjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="44" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Walkercito/Walkercito/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Walkercito/Walkercito/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Walkercito/Walkercito/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
+<br/>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Walkercito/Walkercito/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Walkercito/Walkercito/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Walkercito/Walkercito/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
 
-###
+<h2 align="center">🌟 Projects I'm Proud Of</h2>
 
-## 🌟 Projects I'm Proud Of
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🗒️ **CopyClip**
-*The Clipboard Manager Linux Deserves*
+### 🗒️ CopyClip
+Windows-style clipboard manager for Linux — native rewrite, back in active dev.
 
-**What it does:** Bringing Windows-level clipboard management to Linux users everywhere.
+`C++23` • `GTK4/libadwaita` • `SQLite` • `X11/Wayland`
 
-**Tech Stack:** `Python` • `PyQt6` • `CSS` • `Linux APIs`
+[Repo](https://github.com/Walkercito/CopyClip) • [Site](https://copyclip-eta.vercel.app/)
 
-**Cool Features:**
-- 📋 History tracking with smart search
-- 📌 Pin your most-used clips
-- ⌨️ Lightning-fast keyboard shortcuts  
-- 🧠 Memory optimization that actually works
-- 📦 Soon: .deb package for easy installation
-
-**Impact:** Real Linux users solving real clipboard problems daily!
+<br/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎵 **Mr. Gato**
-*The Ultimate Discord Music Bot*
+### 🎮 repod
+Async multiplayer networking for Python games — a modern, typed PodSixNet rewrite for 3.12+.
 
-**What it does:** Premium music bot that connects to all major streaming platforms in one place.
+`Python` • `asyncio` • `msgpack`
 
-**Tech Stack:** `Astro` • `Discord.py` • `FFMPEG` • `Clerk` • `Supabase` • `TailwindCSS`
+[Repo](https://github.com/Walkercito/repod) • [Docs](https://walkercito.github.io/repod/)
 
-**Streaming Power:**
-- 🎧 Spotify, SoundCloud, YouTube Music & Deezer
-- 🎛️ Advanced queue management
-- 🔐 Secure authentication with Clerk
-- 💾 User preferences stored in Supabase
-- 💰 Converting to paid service with slick landing page
-
-**Status:** From hobby project to business venture!
+<br/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 **BlueLights**
-*Control Your World with Code*
+### 🎵 Mr. Gato
+Discord music bot across Spotify, SoundCloud, YouTube Music & Deezer — hobby turning into a paid product.
 
-**What it does:** Python/Bleak library for controlling Bluetooth LED strips from any device.
+`Astro` • `Discord.py` • `Supabase` • `Clerk`
 
-**Tech Stack:** `Python` • `Bleak` • `Bluetooth LE` • `Cross-platform`
-
-**Why it's cool:**
-- 🌈 Change colors with a single line of code
-- 📱 Works from anywhere on your network
-- 🔧 Simple API, powerful results
-- 🏠 Perfect for smart home setups
-
-**Status:** Live and helping people light up their world!
+<br/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🕸️ **Web Scraping Arsenal**
-*Making the Web Bend to Your Will*
+### 💡 BlueLights
+Python/Bleak library to control Bluetooth LED strips from anywhere on your network.
 
-**What it does:** Custom scrapers and automation scripts for **Begonlabs** and various clients.
+`Python` • `Bleak` • `Bluetooth LE`
 
-**Tech Stack:** `Playwright` • `Puppeteer` • `BeautifulSoup` • `Python` • `Node.js`
-
-**The Challenge:**
-- 🛡️ Bypassing modern anti-bot systems
-- 📊 Handling dynamic content loading
-- 🔄 Building reliable data pipelines
-- ⚡ Speed vs. stealth optimization
-
-**Results:** Data pipelines that just work™
+<br/>
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-###
+### 🕸️ Web Scraping Arsenal
+Custom scrapers & automation pipelines (Begonlabs + clients) that get past modern anti-bot systems.
 
-<br clear="both">
+`Playwright` • `Puppeteer` • `BeautifulSoup`
 
-<h4 align="left">Thanks for stopping by! 🚀</h4>
+<br/>
 
-###
+</td>
+<td width="50%" valign="top">
 
-<p align="left">Whether you're here for collaboration, curiosity, or just browsing – I'm always up for a good conversation about code, ideas, or that weird bug that's been haunting you for weeks.<br><br>Let's turn your next crazy idea into reality. ✨</p>
+### 📂 More
+Libraries, experiments & client work.
 
-###
+[Browse all repositories →](https://github.com/Walkercito?tab=repositories)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">Thanks for stopping by! 🚀</h3>
+
+<p align="center">
+Whether you're here for collaboration, curiosity, or just browsing — I'm always up for a good<br/>
+conversation about code, ideas, or that weird bug that's been haunting you for weeks.<br/>
+Let's turn your next crazy idea into reality. ✨
+</p>
